@@ -6,6 +6,7 @@ app.use(express.json());
  *  cors 👇
 */
 
+//thank you both of you
 const cors = require("cors");
 app.use(cors());
 
